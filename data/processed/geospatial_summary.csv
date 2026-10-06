@@ -1,0 +1,9 @@
+city,state,business_count,centroid_lat,centroid_lon,avg_city_rating,total_reviews
+Nashville,TN,1271,36.1653,-86.7811,3.36,59879.0
+Indianapolis,IN,1265,39.7675,-86.1574,3.3,59664.0
+Philadelphia,PA,1265,39.9517,-75.166,3.31,58183.0
+New Orleans,LA,1259,29.9514,-90.0688,3.3,58200.0
+Edmonton,AB,1249,53.5443,-113.4961,3.36,57342.0
+Reno,NV,1236,39.5287,-119.8131,3.29,59846.0
+Tampa,FL,1228,27.9484,-82.4584,3.31,60028.0
+Tucson,AZ,1227,32.223,-110.9734,3.35,57505.0

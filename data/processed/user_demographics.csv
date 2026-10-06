@@ -1,0 +1,3 @@
+is_elite,user_count,avg_reviews_written,mean_rating_given,avg_useful_votes,avg_funny_votes,avg_cool_votes
+False,18353,25.2,3.71,12.0,5.0,8.0
+True,1647,25.8,3.71,12.1,5.0,8.2
